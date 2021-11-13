@@ -1,5 +1,5 @@
 The comments I added were for the errors say "This server is unavallabel"
-<h1>So This is what to do!</h1>
+<h1>So This is what to do</h1>
 <ul>
     <li>Open up Windows Terminal</li>
     <li>Type "ipconfig"</li>
